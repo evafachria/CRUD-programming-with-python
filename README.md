@@ -1,4 +1,4 @@
-# CRUD task with python (Learning Basic Programing)
+# CRUD with python (Learning Basic Programing)
 
 # Universitas XYZ Academic Information System
 
