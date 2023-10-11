@@ -36,7 +36,7 @@ To use the system, run the `Sistem_Utama()` function and select the appropriate 
 
 To run the system, make sure you have Python installed. Then, execute the Python script `EvaFachria-Capstone1.py` in your terminal or code editor.
 
-```bash
+
 EvaFachria-Capstone1.py
 
 Author
